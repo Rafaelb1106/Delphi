@@ -6,3 +6,5 @@ Herramienta diseñada en Delphi para la optimización y validación de bases de 
    - Confirma que las tablas con campos `FCREACION` y `FULTIMA` estén equipadas con el Trigger adecuado para actualizar estos campos en cada inserción o modificación.
 
 Uniendo arte y ciencia, esta herramienta proporciona soluciones eficientes para la gestión y mantenimiento de bases de datos.
+
+📁 Para un análisis más detallado y funcionalidades adicionales, por favor consulta la carpeta `documentation`.
