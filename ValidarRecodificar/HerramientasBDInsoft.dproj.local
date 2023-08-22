@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.033,F:\proyectos_delphi\ValidarRecodificar\Unit2.pas=F:\proyectos_delphi\ValidarRecodificar\DH_Form_Effects.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.484,=F:\proyectos_delphi\ValidarRecodificar\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.977,F:\proyectos_delphi\ValidarRecodificar\ValidarRecodificar.dproj=F:\proyectos_delphi\ValidarRecodificar\HerramientasBDInsoft.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.342,C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Project1.dproj=F:\proyectos_delphi\ValidarRecodificar\ValidarRecodificar.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.105,=C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.947,C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Unit7.pas=F:\proyectos_delphi\ValidarRecodificar\UFmain.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.538,F:\proyectos_delphi\ValidarRecodificar\UFmain.dfm=F:\proyectos_delphi\ValidarRecodificar\UFVRecodificar.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.815,F:\proyectos_delphi\ValidarRecodificar\Unit7.dfm=F:\proyectos_delphi\ValidarRecodificar\UFVDisparador.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.123,=F:\proyectos_delphi\ValidarRecodificar\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.947,C:\Users\rafae\Documents\Embarcadero\Studio\Projects\Unit7.dfm=F:\proyectos_delphi\ValidarRecodificar\UFmain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.538,F:\proyectos_delphi\ValidarRecodificar\UFmain.pas=F:\proyectos_delphi\ValidarRecodificar\UFVRecodificar.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.439,=F:\proyectos_delphi\ValidarRecodificar\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.020,F:\proyectos_delphi\ValidarRecodificar\Unit7.dfm=F:\proyectos_delphi\ValidarRecodificar\UFPrincipalMenu.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.020,F:\proyectos_delphi\ValidarRecodificar\Unit7.pas=F:\proyectos_delphi\ValidarRecodificar\UFPrincipalMenu.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.815,F:\proyectos_delphi\ValidarRecodificar\Unit7.pas=F:\proyectos_delphi\ValidarRecodificar\UFVDisparador.pas</Transaction>
+  </Transactions>
+</BorlandProject>
